@@ -1,0 +1,17 @@
+{
+  "name": "phantomochajs-requirejs-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "phantomochajs": "^1.0.8"
+  },
+  "dependencies": {
+    "coffee-script": "^1.8.0"
+  }
+}

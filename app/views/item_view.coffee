@@ -12,7 +12,7 @@ define(
 
       render: ->
         el_name = $(document.createElement("div"))
-        el_name.text "value: #{@model.get("name")}"
+        el_name.text "name: #{@model.get("name")}"
 
         el_value = $(document.createElement("div"))
         el_value.text "value: #{@model.get("value")}"

@@ -1,5 +1,10 @@
 # phantomochajs example
 
+## Requirements
+
+* Gulp
+  * `$ npm install -g gulp`
+
 ## How to use
 
 ```sh

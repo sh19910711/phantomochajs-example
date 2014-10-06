@@ -1,5 +1,5 @@
 {
-  "name": "phantomochajs-requirejs-example",
+  "name": "phantomochajs-example",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "bower": "^1.3.12",
     "gulp": "^3.8.8",
+    "main-bower-files": "^2.0.0",
     "phantomochajs": "^1.0.8"
   },
   "dependencies": {
